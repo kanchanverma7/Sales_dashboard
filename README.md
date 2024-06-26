@@ -1,10 +1,9 @@
-# Sales_dashboard
+# E-commerce Sales Dashboard
 
-E-commerce Sales Dashboard
-Introduction:
+## Introduction:
 This Excel dashboard provides an interactive visualization of sales data for an e-commerce business. It offers insights into sales trends over time, by region, and across different product categories.
 
-Features
+## Features
 Working Sheet:
 
 Data collection: Collects data on sales, profit, and regions.
@@ -28,15 +27,15 @@ Dashboard Navigation: Switch to the dashboard sheet to explore sales data by pro
 Product Category Selection: Use the user control box to select a product category and view corresponding sales trends.
 Analysis: Analyze the data presented in tables and charts to gain insights into sales performance.
 
-Requirements:
+## Requirements:
 Microsoft Excel
 
-Installation
+## Installation
 Download the Excel file containing the dashboard.
 Open the file in Microsoft Excel.
 Enable editing and content if prompted.
 Navigate between the working sheet and the dashboard sheet using the tabs at the bottom of the Excel window.
 
-Author
+Author:
 Kanchan Verma
 
